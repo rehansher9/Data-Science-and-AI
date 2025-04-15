@@ -1,1 +1,1 @@
-# Data_Science_M1
+# Data-Science-and-AI
